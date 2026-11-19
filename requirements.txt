@@ -1,0 +1,4 @@
+# Versiones probadas en .venv (Python 3.13.1)
+PySide6==6.10.2     # solo clasificationPythonModern.py
+polars==1.38.1
+Pillow==12.1.1
